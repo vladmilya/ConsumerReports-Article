@@ -1,0 +1,15 @@
+
+#navigation {
+	background:#000;
+}
+.navbar-fixed-top .navbar-inner .container{
+}
+
+.logo-social-top .pull-right a{
+	behavior: url(js/PIE.htc);
+	position:relative;
+}
+
+.padding{
+		background-color:transpatent!important;
+}

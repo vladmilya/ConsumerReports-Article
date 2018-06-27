@@ -1,0 +1,73 @@
+@charset "utf-8";
+
+body{
+	margin:0 auto;
+	margin-top:36px;
+	background-color:#fff;
+	color:#000;
+	font-family: "Merriweather", sans-serif;
+}
+.logo-print{
+	text-align:center;
+}
+h1, h2, h3, h4, p{
+	margin:0;
+	padding:0;
+}
+h1, h2, h3, h4{
+	font-family: "Oswald", sans-serif !important;
+}
+.logo{
+	margin-bottom:30px;
+}
+.header{
+	text-align:center;
+}
+
+.header h1{
+	font-size:84px;
+	margin-bottom:20px;
+}
+h3{
+	font-size:54px;
+	margin-bottom:20px;
+}
+h4 {
+    font-family: "Istok Web",sans-serif;
+    font-size: 20px;
+    margin: 0 0 8px;
+    text-transform: uppercase;
+}
+.header  p{
+	font-size:21px;
+}
+
+p{
+	font-size:16px;
+	font-family: "Merriweather";
+	margin-bottom:30px;
+}
+strong {
+    font-family: "Istok Web",sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+ul{
+	padding-left:0;
+}
+li{
+	font-size:16px;
+	font-family: "Merriweather";
+}
+.panel-760px{
+	max-width:760px;
+	margin:0 auto;
+}
+.panel-520px{
+	max-width:520px;
+	margin:0 auto;
+}
+
+.panel-fluid ta ble td{
+}
+

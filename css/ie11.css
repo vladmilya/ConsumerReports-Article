@@ -1,0 +1,29 @@
+.player1,
+.player2,
+#intro iframe,
+#panel-12 iframe{
+	display:none;
+}
+#intro table{
+	background-color:#000;
+    background-image:url(../img/panel-1-photo.jpg);
+	background-attachment:scroll;
+    background-position: top center;
+    background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#panel-12{
+	background-image:url(../img/panel-12-photo.jpg);
+	background-color:#000;
+	background-attachment:scroll;
+    background-position: top center;
+    background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
